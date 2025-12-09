@@ -2,7 +2,7 @@
   "name": "Movie Dictionary",
   "short_name": "Movies",
   "description": "Twoja osobista baza filmów i seriali",
-  "start_url": "/movie-dictionary.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#0d0d0d",
   "theme_color": "#0d0d0d",
