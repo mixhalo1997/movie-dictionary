@@ -1,6 +1,6 @@
 const CACHE_NAME = 'moviedictionary-v1';
 const urlsToCache = [
-  'movie-dictionary.html',
+  'index.html',
   'manifest.json'
 ];
 
